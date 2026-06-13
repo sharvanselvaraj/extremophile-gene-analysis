@@ -1,0 +1,429 @@
+Extremophile,Resistance_Type,Gene,Product,EC_Number,Locus_ID
+Acidithiobacillus,Radiation resistance,dnaN,DNA polymerase III subunit beta,2.7.7.7,NC_011761.1
+Acidithiobacillus,Radiation resistance,recF,DNA replication and repair protein RecF,,NC_011761.1
+Acidithiobacillus,Heat resistance,papD,Chaperone protein PapD precursor,,NC_011761.1
+Acidithiobacillus,Radiation resistance,resA,Thiol-disulfide oxidoreductase ResA,,NC_011761.1
+Acidithiobacillus,Salt tolerance,mntH_1,Divalent metal cation transporter MntH,,NC_011761.1
+Acidithiobacillus,Radiation resistance,egtB,Iron(II)-dependent oxidoreductase EgtB,1.8.-.-,NC_011761.1
+Acidithiobacillus,Oxidative stress,garB,Glutathione amide reductase,1.8.1.16,NC_011761.1
+Acidithiobacillus,Oxidative stress,gloB,Hydroxyacylglutathione hydrolase,3.1.2.6,NC_011761.1
+Acidithiobacillus,Radiation resistance,dnaQ,DNA polymerase III subunit epsilon,2.7.7.7,NC_011761.1
+Acidithiobacillus,Oxidative stress,gloA,Lactoylglutathione lyase,4.4.1.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,recN,DNA repair protein RecN,,NC_011761.1
+Acidithiobacillus,Radiation resistance,holA,DNA polymerase III subunit delta,2.7.7.7,NC_011761.1
+Acidithiobacillus,Radiation resistance,ydbC,Putative oxidoreductase YdbC,1.-.-.-,NC_011761.1
+Acidithiobacillus,Heat resistance,yajL,Chaperone protein YajL,,NC_011761.1
+Acidithiobacillus,Cold resistance,cspE,Cold shock-like protein CspE,,NC_011761.1
+Acidithiobacillus,Heat resistance,hchA,Molecular chaperone Hsp31 and glyoxalase 3,4.2.1.130,NC_011761.1
+Acidithiobacillus,Radiation resistance,trxA_1,Thioredoxin-1,,NC_011761.1
+Acidithiobacillus,Heat resistance,hscA,Chaperone protein HscA,,NC_011761.1
+Acidithiobacillus,Oxidative stress,fdx_1,2Fe-2S ferredoxin,,NC_011761.1
+Acidithiobacillus,Oxidative stress,gfa,Glutathione-dependent formaldehyde-activating enzyme,4.4.1.22,NC_011761.1
+Acidithiobacillus,Oxidative stress,flhA,S-(hydroxymethyl)glutathione dehydrogenase,1.1.1.284,NC_011761.1
+Acidithiobacillus,Oxidative stress,fghA,S-formylglutathione hydrolase,3.1.2.12,NC_011761.1
+Acidithiobacillus,Radiation resistance,uvrB,UvrABC system protein B,,NC_011761.1
+Acidithiobacillus,Radiation resistance,uvrC,UvrABC system protein C,,NC_011761.1
+Acidithiobacillus,Oxidative stress,alkT,Rubredoxin-NAD(+) reductase,1.18.1.1,NC_011761.1
+Acidithiobacillus,Salt tolerance,mntH_2,Divalent metal cation transporter MntH,,NC_011761.1
+Acidithiobacillus,Radiation resistance,recA,Protein RecA,,NC_011761.1
+Acidithiobacillus,Oxidative stress,tsaA,putative peroxiredoxin,1.11.1.15,NC_011761.1
+Acidithiobacillus,Radiation resistance,recO,DNA repair protein RecO,,NC_011761.1
+Acidithiobacillus,Radiation resistance,yceM,Putative oxidoreductase YceM,1.-.-.-,NC_011761.1
+Acidithiobacillus,Radiation resistance,dnaE,DNA polymerase III subunit alpha,2.7.7.7,NC_011761.1
+Acidithiobacillus,Oxidative stress,bcp,Putative peroxiredoxin bcp,1.11.1.15,NC_011761.1
+Acidithiobacillus,Oxidative stress,gstB_1,Glutathione S-transferase GST-6.0,2.5.1.18,NC_011761.1
+Acidithiobacillus,Oxidative stress,fdxB,Ferredoxin-3,,NC_011761.1
+Acidithiobacillus,Oxidative stress,fer1,Ferredoxin-1,,NC_011761.1
+Acidithiobacillus,Oxidative stress,fdx_2,2Fe-2S ferredoxin,,NC_011761.1
+Acidithiobacillus,Heat resistance,hspA,Spore protein SP21,,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoL_1,NADH-quinone oxidoreductase subunit L,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,dinB_1,DNA polymerase IV,2.7.7.7,NC_011761.1
+Acidithiobacillus,Radiation resistance,acoA_1,Acetoin:2%2C6-dichlorophenolindophenol oxidoreductase subunit alpha,1.1.1.-,NC_011761.1
+Acidithiobacillus,Heat resistance,copZ,Copper chaperone CopZ,,NC_011761.1
+Acidithiobacillus,Radiation resistance,dnaE2,Error-prone DNA polymerase,2.7.7.7,NC_011761.1
+Acidithiobacillus,Radiation resistance,sodB,Superoxide dismutase [Fe],1.15.1.1,NC_011761.1
+Acidithiobacillus,Radiation resistance,holB,DNA polymerase III subunit delta',2.7.7.7,NC_011761.1
+Acidithiobacillus,Radiation resistance,dnaX,DNA polymerase III subunit tau,2.7.7.7,NC_011761.1
+Acidithiobacillus,Oxidative stress,fdx_3,Ferredoxin,,NC_011761.1
+Acidithiobacillus,Oxidative stress,kefC,Glutathione-regulated potassium-efflux system protein KefC,,NC_011761.1
+Acidithiobacillus,Heat resistance,clpB,Chaperone protein ClpB,,NC_011761.1
+Acidithiobacillus,Radiation resistance,trxC_1,Putative thioredoxin-2,,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoM_1,NADH-quinone oxidoreductase subunit M,1.6.99.5,NC_011761.1
+Acidithiobacillus,Heat resistance,dmsD,Tat proofreading chaperone DmsD,,NC_011761.1
+Acidithiobacillus,General stress response,uspF,Universal stress protein F,,NC_011761.1
+Acidithiobacillus,Radiation resistance,holC,DNA polymerase III subunit chi,2.7.7.7,NC_011761.1
+Acidithiobacillus,Radiation resistance,cpo,Non-heme chloroperoxidase,1.11.1.10,NC_011761.1
+Acidithiobacillus,Radiation resistance,trxC_2,Thioredoxin-2,1.8.1.8,NC_011761.1
+Acidithiobacillus,Oxidative stress,grxC,Glutaredoxin-3,,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoB_1,NADH-quinone oxidoreductase subunit B,1.6.99.5,NC_011761.1
+Acidithiobacillus,Oxidative stress,gstB_2,Glutathione S-transferase GST-6.0,2.5.1.18,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoN,NADH-quinone oxidoreductase subunit N,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoM_2,NADH-quinone oxidoreductase subunit M,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoL_2,NADH-quinone oxidoreductase subunit L,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoK,NADH-quinone oxidoreductase subunit K,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoJ,NADH-quinone oxidoreductase subunit J,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoI,NADH-quinone oxidoreductase subunit I,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoH,NADH-quinone oxidoreductase subunit H,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nqo3,NADH-quinone oxidoreductase chain 3,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoF,NADH-quinone oxidoreductase subunit F,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nqo2,NADH-quinone oxidoreductase subunit 2,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoD,NADH-quinone oxidoreductase subunit D,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoC1,NADH-quinone oxidoreductase subunit C 1,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,nuoB_2,NADH-quinone oxidoreductase subunit B,1.6.99.5,NC_011761.1
+Acidithiobacillus,Radiation resistance,ndhC,NAD(P)H-quinone oxidoreductase subunit 3,1.6.5.-,NC_011761.1
+Acidithiobacillus,Radiation resistance,dinB_2,DNA polymerase IV,2.7.7.7,NC_011761.1
+Acidithiobacillus,Heat resistance,dnaJ,Chaperone protein DnaJ,,NC_011761.1
+Acidithiobacillus,Heat resistance,dnaK,Chaperone protein DnaK,,NC_011761.1
+Acidithiobacillus,Radiation resistance,yciK_1,putative oxidoreductase YciK,1.-.-.-,NC_011761.1
+Acidithiobacillus,Oxidative stress,fdx_4,Ferredoxin,,NC_011761.1
+Acidithiobacillus,Radiation resistance,yghU,Disulfide-bond oxidoreductase YghU,1.8.4.-,NC_011761.1
+Acidithiobacillus,Radiation resistance,uvrA,UvrABC system protein A,,NC_011761.1
+Acidithiobacillus,Radiation resistance,trxA_2,Thioredoxin,,NC_011761.1
+Acidithiobacillus,Salt tolerance,crcB,Putative fluoride ion transporter CrcB,,NC_011761.1
+Acidithiobacillus,Oxidative stress,gsiC,Glutathione transport system permease protein GsiC,,NC_011761.1
+Acidithiobacillus,Heat resistance,surA,Chaperone SurA precursor,5.2.1.8,NC_011761.1
+Acidithiobacillus,Oxidative stress,grxD,Glutaredoxin-4,,NC_011761.1
+Acidithiobacillus,Oxidative stress,gshB,Glutathione synthetase,6.3.2.3,NC_011761.1
+Acidithiobacillus,Radiation resistance,acoA_2,Acetoin:2%2C6-dichlorophenolindophenol oxidoreductase subunit alpha,1.1.1.-,NC_011761.1
+Acidithiobacillus,Radiation resistance,polA,DNA polymerase I,2.7.7.7,NC_011761.1
+Acidithiobacillus,Heat resistance,cbpM,Chaperone modulatory protein CbpM,,NC_011761.1
+Acidithiobacillus,Radiation resistance,polX,DNA polymerase/3'-5' exonuclease PolX,,NC_011761.1
+Acidithiobacillus,Radiation resistance,yciK_2,putative oxidoreductase YciK,1.-.-.-,NC_011761.1
+Acidithiobacillus,Radiation resistance,cysH,Thioredoxin-dependent 5'-adenylylsulfate reductase,1.8.4.10,NC_011761.1
+Acidithiobacillus,Heat resistance,htpG,Chaperone protein HtpG,,NC_011761.1
+Deinococcus,Radiation resistance,dnaN,DNA polymerase III subunit beta,2.7.7.7,NZ_CP038663.1
+Deinococcus,Radiation resistance,qorB,Quinone oxidoreductase 2,1.6.5.2,NZ_CP038663.1
+Deinococcus,Radiation resistance,ddrB,Single-stranded DNA-binding protein DdrB,,NZ_CP038663.1
+Deinococcus,Radiation resistance,yciK,putative oxidoreductase YciK,1.-.-.-,NZ_CP038663.1
+Deinococcus,Heat resistance,dnaJ_1,Chaperone protein DnaJ,,NZ_CP038663.1
+Deinococcus,Heat resistance,dnaK,Chaperone protein DnaK,,NZ_CP038663.1
+Deinococcus,Oxidative stress,gltB_2,Ferredoxin-dependent glutamate synthase 1,1.4.7.1,NZ_CP038663.1
+Deinococcus,Salt tolerance,crcB,Putative fluoride ion transporter CrcB,,NZ_CP038663.1
+Deinococcus,Radiation resistance,resA_1,Thiol-disulfide oxidoreductase ResA,,NZ_CP038663.1
+Deinococcus,Radiation resistance,ddrD,DNA damage response protein D,,NZ_CP038663.1
+Deinococcus,Radiation resistance,resA_2,Thiol-disulfide oxidoreductase ResA,,NZ_CP038663.1
+Deinococcus,Oxidative stress,gsiD_1,Glutathione transport system permease protein GsiD,,NZ_CP038663.1
+Deinococcus,Radiation resistance,trxB_1,Thioredoxin reductase,1.8.1.9,NZ_CP038663.1
+Deinococcus,Radiation resistance,ddrA,Single-stranded DNA-binding protein DdrA,,NZ_CP038663.1
+Deinococcus,Radiation resistance,polX,DNA polymerase/3'-5' exonuclease PolX,,NZ_CP038663.1
+Deinococcus,Heat resistance,hchA,Molecular chaperone Hsp31 and glyoxalase 3,4.2.1.130,NZ_CP038663.1
+Deinococcus,Oxidative stress,fprA,NADPH-ferredoxin reductase FprA,1.18.1.2,NZ_CP038663.1
+Deinococcus,Radiation resistance,dnaE,DNA polymerase III subunit alpha,2.7.7.7,NZ_CP038663.1
+Deinococcus,General stress response,degS_1,Signal transduction histidine-protein kinase/phosphatase DegS,2.7.13.3,NZ_CP038663.1
+Deinococcus,Radiation resistance,bpoC,Putative non-heme bromoperoxidase BpoC,1.11.1.18,NZ_CP038663.1
+Deinococcus,General stress response,arlS_1,Signal transduction histidine-protein kinase ArlS,2.7.13.3,NZ_CP038663.1
+Deinococcus,Radiation resistance,gfo,Glucose--fructose oxidoreductase precursor,1.1.99.28,NZ_CP038663.1
+Deinococcus,Radiation resistance,recO,DNA repair protein RecO,,NZ_CP038663.1
+Deinococcus,Oxidative stress,bcp_1,Putative peroxiredoxin/MT2597,1.11.1.15,NZ_CP038663.1
+Deinococcus,Radiation resistance,polC,DNA polymerase III PolC-type,2.7.7.7,NZ_CP038663.1
+Deinococcus,Cold resistance,cspA,Cold shock protein CspA,,NZ_CP038663.1
+Deinococcus,Heat resistance,hspR,Putative heat shock protein HspR,,NZ_CP038663.1
+Deinococcus,Oxidative stress,rex,Redox-sensing transcriptional repressor Rex,,NZ_CP038663.1
+Deinococcus,Radiation resistance,trxA_1,Thioredoxin,,NZ_CP038663.1
+Deinococcus,Oxidative stress,gsiD_2,Glutathione transport system permease protein GsiD,,NZ_CP038663.1
+Deinococcus,Heat resistance,clpB,Chaperone protein ClpB,,NZ_CP038663.1
+Deinococcus,Radiation resistance,recF,DNA replication and repair protein RecF,,NZ_CP038663.1
+Deinococcus,Radiation resistance,kdgR,Pectin degradation repressor protein KdgR,,NZ_CP038663.1
+Deinococcus,Radiation resistance,pucL,Uric acid degradation bifunctional protein PucL,,NZ_CP038663.1
+Deinococcus,General stress response,arlS_2,Signal transduction histidine-protein kinase ArlS,2.7.13.3,NZ_CP038663.1
+Deinococcus,Oxidative stress,bcp_2,Putative peroxiredoxin/MT2597,1.11.1.15,NZ_CP038663.1
+Deinococcus,Oxidative stress,bcp_3,Putative peroxiredoxin bcp,1.11.1.15,NZ_CP038663.1
+Deinococcus,General stress response,degS_2,Signal transduction histidine-protein kinase/phosphatase DegS,2.7.13.3,NZ_CP038663.1
+Deinococcus,Radiation resistance,sodA,Superoxide dismutase [Mn],1.15.1.1,NZ_CP038663.1
+Deinococcus,General stress response,ysnF,Stress response protein YsnF,,NZ_CP038663.1
+Deinococcus,Radiation resistance,uvrC,UvrABC system protein C,,NZ_CP038663.1
+Deinococcus,Radiation resistance,yteT,Putative oxidoreductase YteT precursor,1.-.-.-,NZ_CP038663.1
+Deinococcus,Heat resistance,dnaJ_2,Chaperone protein DnaJ,,NZ_CP038663.1
+Deinococcus,Oxidative stress,gloB_1,Hydroxyacylglutathione hydrolase,3.1.2.6,NZ_CP038663.1
+Deinococcus,Radiation resistance,recN,DNA repair protein RecN,,NZ_CP038663.1
+Deinococcus,Radiation resistance,nqo9,NADH-quinone oxidoreductase subunit 9,1.6.99.5,NZ_CP038663.1
+Deinococcus,Radiation resistance,nqo8,NADH-quinone oxidoreductase subunit 8,1.6.99.5,NZ_CP038663.1
+Deinococcus,Radiation resistance,nqo3,NADH-quinone oxidoreductase subunit 3,1.6.99.5,NZ_CP038663.1
+Deinococcus,Radiation resistance,nqo1,NADH-quinone oxidoreductase subunit 1,1.6.99.5,NZ_CP038663.1
+Deinococcus,Radiation resistance,nqo2,NADH-quinone oxidoreductase subunit 2,1.6.99.5,NZ_CP038663.1
+Deinococcus,Radiation resistance,nqo4,NADH-quinone oxidoreductase subunit 4,1.6.99.5,NZ_CP038663.1
+Deinococcus,Radiation resistance,nqo5,NADH-quinone oxidoreductase subunit 5,1.6.99.5,NZ_CP038663.1
+Deinococcus,Radiation resistance,nqo6,NADH-quinone oxidoreductase subunit 6,1.6.99.5,NZ_CP038663.1
+Deinococcus,Radiation resistance,nqo7,NADH-quinone oxidoreductase subunit 7,1.6.99.5,NZ_CP038663.1
+Deinococcus,Oxidative stress,osmC,Peroxiredoxin OsmC,1.11.1.15,NZ_CP038663.1
+Deinococcus,Radiation resistance,sodC_1,Superoxide dismutase [Cu-Zn] precursor,1.15.1.1,NZ_CP038663.1
+Deinococcus,General stress response,cusS,Sensor kinase CusS,2.7.13.3,NZ_CP038663.1
+Deinococcus,Radiation resistance,polA,DNA polymerase I%2C thermostable,2.7.7.7,NZ_CP038663.1
+Deinococcus,Salt tolerance,mntH,Divalent metal cation transporter MntH,,NZ_CP038663.1
+Deinococcus,Radiation resistance,uvrA_1,UvrABC system protein A,,NZ_CP038663.1
+Deinococcus,Radiation resistance,catD_2,Putative oxidoreductase CatD,1.-.-.-,NZ_CP038663.1
+Deinococcus,Radiation resistance,ndhI,NAD(P)H-quinone oxidoreductase subunit I%2C chloroplastic,1.6.99.5,NZ_CP038663.1
+Deinococcus,Radiation resistance,ydbC,Putative oxidoreductase YdbC,1.-.-.-,NZ_CP038663.1
+Deinococcus,Oxidative stress,todB,Toluene 1%2C2-dioxygenase system ferredoxin subunit,,NZ_CP038663.1
+Deinococcus,Radiation resistance,trxB_2,Thioredoxin reductase,1.8.1.9,NZ_CP038663.1
+Deinococcus,Oxidative stress,katA,Catalase,1.11.1.6,NZ_CP038663.1
+Deinococcus,Oxidative stress,fdx,2Fe-2S ferredoxin,,NZ_CP038663.1
+Deinococcus,Oxidative stress,gloB_2,Hydroxyacylglutathione hydrolase,3.1.2.6,NZ_CP038663.1
+Deinococcus,General stress response,yceC,Stress response protein SCP2,,NZ_CP038663.1
+Deinococcus,Oxidative stress,bcp_4,Putative peroxiredoxin bcp,1.11.1.15,NZ_CP038663.1
+Deinococcus,Oxidative stress,gloB_3,Hydroxyacylglutathione hydrolase,3.1.2.6,NZ_CP038663.1
+Deinococcus,Radiation resistance,uvrB,UvrABC system protein B,,NZ_CP038663.1
+Deinococcus,Oxidative stress,fdhA,Glutathione-independent formaldehyde dehydrogenase,1.2.1.46,NZ_CP038663.1
+Deinococcus,Radiation resistance,dnaX_1,DNA polymerase III subunit tau,2.7.7.7,NZ_CP038663.1
+Deinococcus,Radiation resistance,recA,Protein RecA,,NZ_CP038663.1
+Deinococcus,General stress response,nhaX,Stress response protein NhaX,,NZ_CP038663.1
+Deinococcus,Radiation resistance,dnaX_2,DNA polymerase III subunit tau,2.7.7.7,NZ_CP038663.1
+Deinococcus,Heat resistance,copZ,Copper chaperone CopZ,,NZ_CP038663.1
+Deinococcus,Radiation resistance,nboR,Nicotine blue oxidoreductase,1.1.1.328,NZ_CP038664.1
+Deinococcus,Oxidative stress,sir,Sulfite reductase [ferredoxin],1.8.7.1,NZ_CP038664.1
+Deinococcus,Salt tolerance,osmF,Putative osmoprotectant uptake system substrate-binding protein OsmF precursor,,NZ_CP038664.1
+Deinococcus,Salt tolerance,opuCA,Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA,,NZ_CP038664.1
+Deinococcus,Salt tolerance,yehW,Putative osmoprotectant uptake system permease protein YehW,,NZ_CP038664.1
+Deinococcus,Radiation resistance,trxA_2,Thioredoxin-1,,NZ_CP038664.1
+Deinococcus,Radiation resistance,uvrA_2,UvrABC system protein A,,NZ_CP038664.1
+Deinococcus,Radiation resistance,sodC_2,Superoxide dismutase [Cu-Zn] precursor,1.15.1.1,NZ_CP038664.1
+Deinococcus,Oxidative stress,gsiC,Glutathione transport system permease protein GsiC,,NZ_CP038664.1
+Deinococcus,Radiation resistance,qorA,Quinone oxidoreductase 1,1.6.5.5,NZ_CP038664.1
+Deinococcus,Oxidative stress,katE,Catalase C,1.11.1.6,NZ_CP038664.1
+Deinococcus,Radiation resistance,ccp,Cytochrome c551 peroxidase precursor,1.11.1.5,NZ_CP038664.1
+Deinococcus,Radiation resistance,pprA,DNA repair protein PprA,,NZ_CP038664.1
+Deinococcus,Oxidative stress,gloB_4,Hydroxyacylglutathione hydrolase,3.1.2.6,NZ_CP038664.1
+Deinococcus,General stress response,mprB,Signal transduction histidine-protein kinase/phosphatase MprB,2.7.13.3,NZ_CP038665.1
+Halobacterium,Radiation resistance,recA_1,Protein RecA,,NZ_CP038631.1
+Halobacterium,Oxidative stress,gsiA,Glutathione import ATP-binding protein GsiA,3.6.3.-,NZ_CP038631.1
+Halobacterium,Oxidative stress,gsiD_1,Glutathione transport system permease protein GsiD,,NZ_CP038631.1
+Halobacterium,Radiation resistance,trxA_1,Thioredoxin,,NZ_CP038631.1
+Halobacterium,Radiation resistance,uvrA,UvrABC system protein A,,NZ_CP038631.1
+Halobacterium,Cold resistance,cspB_1,Cold shock protein CspB,,NZ_CP038631.1
+Halobacterium,Radiation resistance,trxA_2,Thioredoxin,,NZ_CP038631.1
+Halobacterium,Oxidative stress,gloB_1,Hydroxyacylglutathione hydrolase,3.1.2.6,NZ_CP038631.1
+Halobacterium,Acidic environment adaptation,gadB,Glutamate decarboxylase,4.1.1.15,NZ_CP038631.1
+Halobacterium,Oxidative stress,grxD,Glutaredoxin-4,,NZ_CP038631.1
+Halobacterium,Radiation resistance,korB_1,2-oxoglutarate oxidoreductase subunit KorB,1.2.-.-,NZ_CP038631.1
+Halobacterium,Radiation resistance,korA_1,2-oxoglutarate oxidoreductase subunit KorA,1.2.-.-,NZ_CP038631.1
+Halobacterium,Heat resistance,dnaJ_1,Chaperone protein DnaJ,,NZ_CP038631.1
+Halobacterium,Heat resistance,dnaK,Chaperone protein DnaK,,NZ_CP038631.1
+Halobacterium,Radiation resistance,polB_1,DNA polymerase II,2.7.7.7,NZ_CP038631.1
+Halobacterium,Heat resistance,dnaJ_2,Chaperone protein DnaJ,,NZ_CP038631.1
+Halobacterium,Heat resistance,hchA,Molecular chaperone Hsp31 and glyoxalase 3,4.2.1.130,NZ_CP038631.1
+Halobacterium,Radiation resistance,nuoL_1,NADH-quinone oxidoreductase subunit L,1.6.99.5,NZ_CP038631.1
+Halobacterium,Radiation resistance,ndhC,NAD(P)H-quinone oxidoreductase subunit 3,1.6.5.-,NZ_CP038631.1
+Halobacterium,Radiation resistance,nuoB,NADH-quinone oxidoreductase subunit B,1.6.99.5,NZ_CP038631.1
+Halobacterium,Radiation resistance,nuoC,NADH-quinone oxidoreductase subunit C/D,1.6.99.5,NZ_CP038631.1
+Halobacterium,Radiation resistance,nuoH,NADH-quinone oxidoreductase subunit H,1.6.99.5,NZ_CP038631.1
+Halobacterium,Radiation resistance,nuoI,NADH-quinone oxidoreductase subunit I,1.6.99.5,NZ_CP038631.1
+Halobacterium,Radiation resistance,nuoK,NADH-quinone oxidoreductase subunit K,1.6.99.5,NZ_CP038631.1
+Halobacterium,Radiation resistance,nuoL_2,NADH-quinone oxidoreductase subunit L,1.6.99.5,NZ_CP038631.1
+Halobacterium,Radiation resistance,ndhD1,NAD(P)H-quinone oxidoreductase chain 4 1,1.6.5.-,NZ_CP038631.1
+Halobacterium,Radiation resistance,nuoN,NADH-quinone oxidoreductase subunit N,1.6.99.5,NZ_CP038631.1
+Halobacterium,Oxidative stress,gloB_2,Hydroxyacylglutathione hydrolase,3.1.2.6,NZ_CP038631.1
+Halobacterium,Heat resistance,aldHT,Aldehyde dehydrogenase%2C thermostable,1.2.1.5,NZ_CP038631.1
+Halobacterium,Radiation resistance,yfmJ,Putative NADP-dependent oxidoreductase YfmJ,1.-.-.-,NZ_CP038631.1
+Halobacterium,Radiation resistance,polB_2,DNA polymerase II,2.7.7.7,NZ_CP038631.1
+Halobacterium,Heat resistance,dmsD,Tat proofreading chaperone DmsD,,NZ_CP038631.1
+Halobacterium,Radiation resistance,dnaE2,Error-prone DNA polymerase,2.7.7.7,NZ_CP038631.1
+Halobacterium,Radiation resistance,dinB,DNA polymerase IV,2.7.7.7,NZ_CP038631.1
+Halobacterium,Salt tolerance,betL,Glycine betaine transporter BetL,,NZ_CP038631.1
+Halobacterium,Oxidative stress,gloA,Lactoylglutathione lyase,4.4.1.5,NZ_CP038631.1
+Halobacterium,Radiation resistance,korB_2,2-oxoglutarate oxidoreductase subunit KorB,1.2.-.-,NZ_CP038631.1
+Halobacterium,Radiation resistance,korA_2,2-oxoglutarate oxidoreductase subunit KorA,1.2.-.-,NZ_CP038631.1
+Halobacterium,Radiation resistance,sodA_1,Superoxide dismutase [Mn],1.15.1.1,NZ_CP038631.1
+Halobacterium,Oxidative stress,bcp_1,Putative peroxiredoxin/MT2597,1.11.1.15,NZ_CP038631.1
+Halobacterium,Radiation resistance,trxB_1,Thioredoxin reductase,1.8.1.9,NZ_CP038631.1
+Halobacterium,Oxidative stress,gloB_3,Hydroxyacylglutathione hydrolase,3.1.2.6,NZ_CP038631.1
+Halobacterium,Radiation resistance,sodA_2,Superoxide dismutase [Mn/Fe],1.15.1.1,NZ_CP038631.1
+Halobacterium,Radiation resistance,recA_2,Protein RecA,,NZ_CP038631.1
+Halobacterium,Heat resistance,dnaJ_3,Chaperone protein DnaJ,,NZ_CP038631.1
+Halobacterium,Radiation resistance,yciK,putative oxidoreductase YciK,1.-.-.-,NZ_CP038631.1
+Halobacterium,General stress response,uspG,Universal stress protein G,,NZ_CP038631.1
+Halobacterium,Salt tolerance,opuCC,Glycine betaine/carnitine/choline-binding protein OpuCC precursor,,NZ_CP038631.1
+Halobacterium,Oxidative stress,bcp_2,Putative peroxiredoxin bcp,1.11.1.15,NZ_CP038631.1
+Halobacterium,Cold resistance,cspB_2,Cold shock protein CspB,,NZ_CP038631.1
+Halobacterium,Salt tolerance,crcB_1,Putative fluoride ion transporter CrcB,,NZ_CP038631.1
+Halobacterium,Salt tolerance,crcB_2,Putative fluoride ion transporter CrcB,,NZ_CP038631.1
+Halobacterium,Heat resistance,dnaJ_4,Chaperone protein DnaJ,,NZ_CP038631.1
+Halobacterium,Radiation resistance,dnaX_1,DNA polymerase III subunit tau,2.7.7.7,NZ_CP038631.1
+Halobacterium,Radiation resistance,dnaX_2,DNA polymerase III subunit tau,2.7.7.7,NZ_CP038631.1
+Halobacterium,Radiation resistance,trxB_2,Thioredoxin reductase,1.8.1.9,NZ_CP038631.1
+Halobacterium,Radiation resistance,tpx,thiol peroxidase,,NZ_CP038631.1
+Halobacterium,Oxidative stress,gsiD_2,Glutathione transport system permease protein GsiD,,NZ_CP038631.1
+Halobacterium,Radiation resistance,uvrC,UvrABC system protein C,,NZ_CP038631.1
+Halobacterium,Radiation resistance,uvrB,UvrABC system protein B,,NZ_CP038631.1
+Halobacterium,Radiation resistance,katG,Catalase-peroxidase,1.11.1.21,NZ_CP038632.1
+Halobacterium,Radiation resistance,kdgR,Pectin degradation repressor protein KdgR,,NZ_CP038632.1
+Psychrobacter,Oxidative stress,bcp,Putative peroxiredoxin/MT2597,1.11.1.15,NZ_QGGM01000001.1
+Psychrobacter,General stress response,yceC_1,Stress response protein SCP2,,NZ_QGGM01000001.1
+Psychrobacter,Radiation resistance,uvrB,UvrABC system protein B,,NZ_QGGM01000001.1
+Psychrobacter,General stress response,cusS_1,Sensor kinase CusS,2.7.13.3,NZ_QGGM01000001.1
+Psychrobacter,Oxidative stress,gstB_1,Glutathione S-transferase GST-6.0,2.5.1.18,NZ_QGGM01000001.1
+Psychrobacter,Oxidative stress,tsaA_1,putative peroxiredoxin,1.11.1.15,NZ_QGGM01000001.1
+Psychrobacter,Oxidative stress,grxC,Glutaredoxin-3,,NZ_QGGM01000001.1
+Psychrobacter,Heat resistance,narJ,Nitrate reductase molybdenum cofactor assembly chaperone NarJ,,NZ_QGGM01000001.1
+Psychrobacter,General stress response,arlS,Signal transduction histidine-protein kinase ArlS,2.7.13.3,NZ_QGGM01000001.1
+Psychrobacter,Radiation resistance,yojM,Superoxide dismutase-like protein YojM precursor,,NZ_QGGM01000001.1
+Psychrobacter,Radiation resistance,uao,Uric acid degradation bifunctional protein,,NZ_QGGM01000001.1
+Psychrobacter,Oxidative stress,frmA,S-(hydroxymethyl)glutathione dehydrogenase,1.1.1.284,NZ_QGGM01000001.1
+Psychrobacter,General stress response,luxQ_1,Autoinducer 2 sensor kinase/phosphatase LuxQ,2.7.13.3,NZ_QGGM01000001.1
+Psychrobacter,Radiation resistance,uvrA,UvrABC system protein A,,NZ_QGGM01000001.1
+Psychrobacter,Oxidative stress,gor,Glutathione reductase,1.8.1.7,NZ_QGGM01000001.1
+Psychrobacter,Radiation resistance,dnaE2,Error-prone DNA polymerase,2.7.7.7,NZ_QGGM01000001.1
+Psychrobacter,Oxidative stress,fghA,S-formylglutathione hydrolase,3.1.2.12,NZ_QGGM01000001.1
+Psychrobacter,Heat resistance,htpG,Chaperone protein HtpG,,NZ_QGGM01000001.1
+Psychrobacter,Oxidative stress,katA,Catalase,1.11.1.6,NZ_QGGM01000001.1
+Psychrobacter,Radiation resistance,yghU,Disulfide-bond oxidoreductase YghU,1.8.4.-,NZ_QGGM01000002.1
+Psychrobacter,Oxidative stress,sir,Sulfite reductase [ferredoxin],1.8.7.1,NZ_QGGM01000002.1
+Psychrobacter,Radiation resistance,dnaX,DNA polymerase III subunit tau,2.7.7.7,NZ_QGGM01000002.1
+Psychrobacter,Oxidative stress,gsiA,Glutathione import ATP-binding protein GsiA,3.6.3.-,NZ_QGGM01000002.1
+Psychrobacter,Oxidative stress,gloB_1,Hydroxyacylglutathione hydrolase,3.1.2.6,NZ_QGGM01000002.1
+Psychrobacter,Heat resistance,hslR,Heat shock protein 15,,NZ_QGGM01000002.1
+Psychrobacter,Cold resistance,cspA,Major cold shock protein CspA,,NZ_QGGM01000002.1
+Psychrobacter,Salt tolerance,proV,Glycine betaine/L-proline transport ATP-binding protein ProV,,NZ_QGGM01000003.1
+Psychrobacter,Salt tolerance,opuAB,Glycine betaine transport system permease protein OpuAB,,NZ_QGGM01000003.1
+Psychrobacter,Radiation resistance,holB,DNA polymerase III subunit delta',2.7.7.7,NZ_QGGM01000003.1
+Psychrobacter,General stress response,yceC_2,Stress response protein SCP2,,NZ_QGGM01000003.1
+Psychrobacter,Oxidative stress,fpr_1,Ferredoxin--NADP reductase,1.18.1.2,NZ_QGGM01000003.1
+Psychrobacter,Radiation resistance,dinB,DNA polymerase IV,2.7.7.7,NZ_QGGM01000003.1
+Psychrobacter,Heat resistance,hscB,Co-chaperone protein HscB,,NZ_QGGM01000003.1
+Psychrobacter,Heat resistance,hscA,Chaperone protein HscA,,NZ_QGGM01000003.1
+Psychrobacter,Oxidative stress,fdx_1,2Fe-2S ferredoxin,,NZ_QGGM01000003.1
+Psychrobacter,Heat resistance,clpB_1,Chaperone protein ClpB,,NZ_QGGM01000003.1
+Psychrobacter,Heat resistance,surA,Chaperone SurA precursor,5.2.1.8,NZ_QGGM01000003.1
+Psychrobacter,Heat resistance,dnaJ,Chaperone protein DnaJ,,NZ_QGGM01000004.1
+Psychrobacter,Radiation resistance,recF_1,DNA replication and repair protein RecF,,NZ_QGGM01000004.1
+Psychrobacter,Heat resistance,cbpM,Chaperone modulatory protein CbpM,,NZ_QGGM01000004.1
+Psychrobacter,Radiation resistance,recN,DNA repair protein RecN,,NZ_QGGM01000004.1
+Psychrobacter,Radiation resistance,yciK,putative oxidoreductase YciK,1.-.-.-,NZ_QGGM01000004.1
+Psychrobacter,Heat resistance,yciC,Putative metal chaperone YciC,,NZ_QGGM01000004.1
+Psychrobacter,Radiation resistance,puuB_1,Gamma-glutamylputrescine oxidoreductase,1.4.3.-,NZ_QGGM01000005.1
+Psychrobacter,Radiation resistance,yfmJ,Putative NADP-dependent oxidoreductase YfmJ,1.-.-.-,NZ_QGGM01000005.1
+Psychrobacter,Radiation resistance,dnaQ,DNA polymerase III subunit epsilon,2.7.7.7,NZ_QGGM01000005.1
+Psychrobacter,Salt tolerance,betL_1,Glycine betaine transporter BetL,,NZ_QGGM01000005.1
+Psychrobacter,Salt tolerance,betL_2,Glycine betaine transporter BetL,,NZ_QGGM01000005.1
+Psychrobacter,Heat resistance,clpB_2,Chaperone protein ClpB,,NZ_QGGM01000005.1
+Psychrobacter,Radiation resistance,puuB_2,Gamma-glutamylputrescine oxidoreductase,1.4.3.-,NZ_QGGM01000005.1
+Psychrobacter,Oxidative stress,fdx_2,Ferredoxin,,NZ_QGGM01000006.1
+Psychrobacter,Radiation resistance,recO,DNA repair protein RecO,,NZ_QGGM01000006.1
+Psychrobacter,General stress response,barA,Signal transduction histidine-protein kinase BarA,2.7.13.3,NZ_QGGM01000006.1
+Psychrobacter,Oxidative stress,gstB_2,Glutathione S-transferase GST-6.0,2.5.1.18,NZ_QGGM01000006.1
+Psychrobacter,Radiation resistance,polA,DNA polymerase I,2.7.7.7,NZ_QGGM01000006.1
+Psychrobacter,Salt tolerance,crcB,Putative fluoride ion transporter CrcB,,NZ_QGGM01000007.1
+Psychrobacter,Oxidative stress,gloA,Lactoylglutathione lyase,4.4.1.5,NZ_QGGM01000007.1
+Psychrobacter,Radiation resistance,sadH_1,Putative oxidoreductase SadH,1.-.-.-,NZ_QGGM01000008.1
+Psychrobacter,Radiation resistance,katG,Catalase-peroxidase,1.11.1.21,NZ_QGGM01000008.1
+Psychrobacter,Oxidative stress,grxD,Glutaredoxin-4,,NZ_QGGM01000008.1
+Psychrobacter,Cold resistance,cspV,Cold shock protein CspV,,NZ_QGGM01000009.1
+Psychrobacter,Oxidative stress,gstB_3,Glutathione S-transferase GstB,2.5.1.18,NZ_QGGM01000010.1
+Psychrobacter,General stress response,luxQ_2,Autoinducer 2 sensor kinase/phosphatase LuxQ,2.7.13.3,NZ_QGGM01000010.1
+Psychrobacter,Oxidative stress,kefC,Glutathione-regulated potassium-efflux system protein KefC,,NZ_QGGM01000011.1
+Psychrobacter,Radiation resistance,recA,Protein RecA,,NZ_QGGM01000011.1
+Psychrobacter,Oxidative stress,gshB,Glutathione synthetase,6.3.2.3,NZ_QGGM01000011.1
+Psychrobacter,Radiation resistance,trxC,Thioredoxin-2,1.8.1.8,NZ_QGGM01000011.1
+Psychrobacter,Cold resistance,cspE,Cold shock-like protein CspE,,NZ_QGGM01000012.1
+Psychrobacter,Salt tolerance,betL_3,Glycine betaine transporter BetL,,NZ_QGGM01000013.1
+Psychrobacter,Heat resistance,aldHT,Aldehyde dehydrogenase%2C thermostable,1.2.1.5,NZ_QGGM01000013.1
+Psychrobacter,Radiation resistance,trxA,Thioredoxin-1,,NZ_QGGM01000014.1
+Psychrobacter,Radiation resistance,qorA,Quinone oxidoreductase 1,1.6.5.5,NZ_QGGM01000014.1
+Psychrobacter,Radiation resistance,czcO,putative oxidoreductase CzcO,1.-.-.-,NZ_QGGM01000014.1
+Psychrobacter,Heat resistance,dnaK,Chaperone protein DnaK,,NZ_QGGM01000015.1
+Psychrobacter,Radiation resistance,dnaN,DNA polymerase III subunit beta,2.7.7.7,NZ_QGGM01000015.1
+Psychrobacter,Radiation resistance,recF_2,DNA replication and repair protein RecF,,NZ_QGGM01000015.1
+Psychrobacter,Oxidative stress,fdxA,Ferredoxin-1,,NZ_QGGM01000016.1
+Psychrobacter,General stress response,ysnF,Stress response protein YsnF,,NZ_QGGM01000016.1
+Psychrobacter,Radiation resistance,sodB,Superoxide dismutase [Fe],1.15.1.1,NZ_QGGM01000017.1
+Psychrobacter,Radiation resistance,sadH_2,Putative oxidoreductase SadH,1.-.-.-,NZ_QGGM01000017.1
+Psychrobacter,Oxidative stress,gloB_2,Hydroxyacylglutathione hydrolase,3.1.2.6,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,holA,DNA polymerase III subunit delta,2.7.7.7,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,ndhC,NAD(P)H-quinone oxidoreductase subunit 3,1.6.5.-,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoB,NADH-quinone oxidoreductase subunit B,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoC,NADH-quinone oxidoreductase subunit C/D,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoE,NADH-quinone oxidoreductase subunit E,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoF,NADH-quinone oxidoreductase subunit F,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoG,NADH-quinone oxidoreductase subunit G,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoH,NADH-quinone oxidoreductase subunit H,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoI,NADH-quinone oxidoreductase subunit I,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoJ,NADH-quinone oxidoreductase subunit J,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoK,NADH-quinone oxidoreductase subunit K,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoL,NADH-quinone oxidoreductase subunit L,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoM,NADH-quinone oxidoreductase subunit M,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,nuoN,NADH-quinone oxidoreductase subunit N,1.6.99.5,NZ_QGGM01000018.1
+Psychrobacter,Oxidative stress,fpr_2,Ferredoxin--NADP reductase,1.18.1.2,NZ_QGGM01000018.1
+Psychrobacter,Radiation resistance,uvrC,UvrABC system protein C,,NZ_QGGM01000020.1
+Psychrobacter,General stress response,cusS_2,Sensor kinase CusS,2.7.13.3,NZ_QGGM01000020.1
+Psychrobacter,Oxidative stress,gstB_4,Glutathione S-transferase GST-6.0,2.5.1.18,NZ_QGGM01000021.1
+Psychrobacter,Heat resistance,hchA,Molecular chaperone Hsp31 and glyoxalase 3,4.2.1.130,NZ_QGGM01000021.1
+Psychrobacter,Radiation resistance,bpoC,Putative non-heme bromoperoxidase BpoC,1.11.1.18,NZ_QGGM01000022.1
+Psychrobacter,Oxidative stress,rubA,Rubredoxin,,NZ_QGGM01000022.1
+Psychrobacter,Radiation resistance,dnaE,DNA polymerase III subunit alpha,2.7.7.7,NZ_QGGM01000022.1
+Psychrobacter,Radiation resistance,polC_1,DNA polymerase III PolC-type,2.7.7.7,NZ_QGGM01000022.1
+Psychrobacter,Heat resistance,lifO,Lipase chaperone,,NZ_QGGM01000023.1
+Psychrobacter,Radiation resistance,polC_2,DNA polymerase III PolC-type,2.7.7.7,NZ_QGGM01000023.1
+Psychrobacter,Radiation resistance,trxB,Thioredoxin reductase,1.8.1.9,NZ_QGGM01000023.1
+Psychrobacter,Oxidative stress,katE,Catalase C,1.11.1.6,NZ_QGGM01000027.1
+Thermus,Radiation resistance,dnaN_1,DNA polymerase III subunit beta,2.7.7.7,NZ_CP010822.1
+Thermus,Cold resistance,cspLA_1,Cold shock-like protein CspLA,,NZ_CP010822.1
+Thermus,Radiation resistance,dnaE,DNA polymerase III subunit alpha,2.7.7.7,NZ_CP010822.1
+Thermus,Salt tolerance,crcB,Putative fluoride ion transporter CrcB,,NZ_CP010822.1
+Thermus,Radiation resistance,dnaN_2,DNA polymerase III subunit beta,2.7.7.7,NZ_CP010822.1
+Thermus,Cold resistance,cspLA_2,Cold shock-like protein CspLA,,NZ_CP010822.1
+Thermus,Heat resistance,dnaJ,Chaperone protein DnaJ,,NZ_CP010822.1
+Thermus,Radiation resistance,resA_1,Thiol-disulfide oxidoreductase ResA,,NZ_CP010822.1
+Thermus,Radiation resistance,trxA_1,Thioredoxin,,NZ_CP010822.1
+Thermus,Oxidative stress,andAb,Anthranilate 1%2C2-dioxygenase ferredoxin subunit,,NZ_CP010822.1
+Thermus,Radiation resistance,npr,NADH peroxidase,1.11.1.1,NZ_CP010822.1
+Thermus,Radiation resistance,recA,Protein RecA,,NZ_CP010822.1
+Thermus,Oxidative stress,rex,Redox-sensing transcriptional repressor Rex,,NZ_CP010822.1
+Thermus,Radiation resistance,recN,DNA repair protein RecN,,NZ_CP010822.1
+Thermus,Oxidative stress,hrb,High molecular weight rubredoxin,,NZ_CP010822.1
+Thermus,Oxidative stress,gsiD_1,Glutathione transport system permease protein GsiD,,NZ_CP010822.1
+Thermus,Oxidative stress,gsiC,Glutathione transport system permease protein GsiC,,NZ_CP010822.1
+Thermus,Oxidative stress,gsiB,Glutathione-binding protein GsiB precursor,,NZ_CP010822.1
+Thermus,Heat resistance,hspR,Putative heat shock protein HspR,,NZ_CP010822.1
+Thermus,Oxidative stress,gloB,Hydroxyacylglutathione hydrolase,3.1.2.6,NZ_CP010822.1
+Thermus,Radiation resistance,polA,DNA polymerase I%2C thermostable,2.7.7.7,NZ_CP010822.1
+Thermus,General stress response,nhaX_1,Stress response protein NhaX,,NZ_CP010822.1
+Thermus,Oxidative stress,gsiD_2,Glutathione transport system permease protein GsiD,,NZ_CP010822.1
+Thermus,Oxidative stress,sir,Sulfite reductase [ferredoxin],1.8.7.1,NZ_CP010822.1
+Thermus,Radiation resistance,ydhV_1,putative oxidoreductase YdhV,1.-.-.-,NZ_CP010822.1
+Thermus,Radiation resistance,polX,DNA polymerase/3'-5' exonuclease PolX,,NZ_CP010822.1
+Thermus,General stress response,nhaX_2,Stress response protein NhaX,,NZ_CP010822.1
+Thermus,Heat resistance,aldHT,Aldehyde dehydrogenase%2C thermostable,1.2.1.5,NZ_CP010822.1
+Thermus,Radiation resistance,recO,DNA repair protein RecO,,NZ_CP010822.1
+Thermus,Radiation resistance,polC_1,DNA polymerase III PolC-type,2.7.7.7,NZ_CP010822.1
+Thermus,Heat resistance,hspA_1,Spore protein SP21,,NZ_CP010822.1
+Thermus,General stress response,degS,Signal transduction histidine-protein kinase/phosphatase DegS,2.7.13.3,NZ_CP010822.1
+Thermus,Radiation resistance,sodA,Superoxide dismutase [Mn],1.15.1.1,NZ_CP010822.1
+Thermus,Radiation resistance,polC_2,DNA polymerase III PolC-type,2.7.7.7,NZ_CP010822.1
+Thermus,Radiation resistance,holA,DNA polymerase III subunit delta,2.7.7.7,NZ_CP010822.1
+Thermus,Radiation resistance,uvrC,UvrABC system protein C,,NZ_CP010822.1
+Thermus,Radiation resistance,ydhV_2,putative oxidoreductase YdhV,1.-.-.-,NZ_CP010822.1
+Thermus,Radiation resistance,ddrA_1,Single-stranded DNA-binding protein DdrA,,NZ_CP010822.1
+Thermus,Radiation resistance,nqo7,NADH-quinone oxidoreductase subunit 7,1.6.99.5,NZ_CP010822.1
+Thermus,Radiation resistance,nqo6,NADH-quinone oxidoreductase subunit 6,1.6.99.5,NZ_CP010822.1
+Thermus,Radiation resistance,nqo5,NADH-quinone oxidoreductase subunit 5,1.6.99.5,NZ_CP010822.1
+Thermus,Radiation resistance,nqo4,NADH-quinone oxidoreductase subunit 4,1.6.99.5,NZ_CP010822.1
+Thermus,Radiation resistance,nqo2,NADH-quinone oxidoreductase subunit 2,1.6.99.5,NZ_CP010822.1
+Thermus,Radiation resistance,nqo1,NADH-quinone oxidoreductase subunit 1,1.6.99.5,NZ_CP010822.1
+Thermus,Radiation resistance,nqo3,NADH-quinone oxidoreductase subunit 3,1.6.99.5,NZ_CP010822.1
+Thermus,Radiation resistance,nqo8,NADH-quinone oxidoreductase subunit 8,1.6.99.5,NZ_CP010822.1
+Thermus,Radiation resistance,nqo9,NADH-quinone oxidoreductase subunit 9,1.6.99.5,NZ_CP010822.1
+Thermus,Radiation resistance,resA_2,Thiol-disulfide oxidoreductase ResA,,NZ_CP010822.1
+Thermus,Oxidative stress,bcp_1,Putative peroxiredoxin bcp,1.11.1.15,NZ_CP010822.1
+Thermus,Oxidative stress,bcp_2,Putative peroxiredoxin bcp,1.11.1.15,NZ_CP010822.1
+Thermus,Oxidative stress,kefC,Glutathione-regulated potassium-efflux system protein KefC,,NZ_CP010822.1
+Thermus,Radiation resistance,uvrA,UvrABC system protein A,,NZ_CP010822.1
+Thermus,Heat resistance,cbpM,Chaperone modulatory protein CbpM,,NZ_CP010822.1
+Thermus,Heat resistance,dnaK,Chaperone protein DnaK,,NZ_CP010822.1
+Thermus,Heat resistance,clpB,Chaperone protein ClpB,,NZ_CP010822.1
+Thermus,Radiation resistance,trxA_2,Thioredoxin-1,,NZ_CP010822.1
+Thermus,Heat resistance,hspA_2,Spore protein SP21,,NZ_CP010822.1
+Thermus,Oxidative stress,ydbD,putative manganese catalase,1.11.1.6,NZ_CP010822.1
+Thermus,Radiation resistance,trxB_1,Thioredoxin reductase,1.8.1.9,NZ_CP010822.1
+Thermus,Heat resistance,hspA_3,Spore protein SP21,,NZ_CP010822.1
+Thermus,Oxidative stress,osmC,Peroxiredoxin OsmC,1.11.1.15,NZ_CP010822.1
+Thermus,Oxidative stress,flr,Flavoredoxin,,NZ_CP010822.1
+Thermus,Radiation resistance,dnaX_1,DNA polymerase III subunit tau,2.7.7.7,NZ_CP010822.1
+Thermus,Radiation resistance,ydhV_3,putative oxidoreductase YdhV,1.-.-.-,NZ_CP010822.1
+Thermus,Radiation resistance,qorA,Quinone oxidoreductase 1,1.6.5.5,NZ_CP010822.1
+Thermus,Radiation resistance,dnaX_2,DNA polymerase III subunit tau,2.7.7.7,NZ_CP010822.1
+Thermus,Radiation resistance,korA,2-oxoglutarate oxidoreductase subunit KorA,1.2.-.-,NZ_CP010822.1
+Thermus,Radiation resistance,korB,2-oxoglutarate oxidoreductase subunit KorB,1.2.-.-,NZ_CP010822.1
+Thermus,Radiation resistance,recF,DNA replication and repair protein RecF,,NZ_CP010822.1
+Thermus,Radiation resistance,uvrB,UvrABC system protein B,,NZ_CP010822.1
+Thermus,Radiation resistance,trxB_2,Thioredoxin reductase,1.8.1.9,NZ_CP010822.1
+Thermus,Radiation resistance,ddrA_2,Single-stranded DNA-binding protein DdrA,,NZ_CP010825.1
+Thermus,Oxidative stress,bcp_3,Putative peroxiredoxin/MT2597,1.11.1.15,NZ_CP010826.1
