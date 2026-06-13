@@ -44,16 +44,18 @@ Network analysis — gene to resistance category connections
 ---
 
 ## Repository Structure
+
+```
 extremophile-gene-analysis/
 │
-├── data/
-│   ├── *_prokka.gff             # PROKKA annotation outputs
-│   ├── *_RAST.xls               # RAST annotation outputs
-│   ├── combined_prokka.csv
-│   ├── combined_RAST.csv
-│   └── ...
+├── data/                        
+│   ├── *_prokka.gff             
+│   ├── *_RAST.xls               
+│   ├── combined_prokka.csv      
+│   ├── combined_RAST.csv        
+│   └── ...                      
 │
-├── scripts/
+├── scripts/                     
 │   ├── combine_prokka_results.py
 │   ├── combine_rast_results.py
 │   ├── combine_prokka_rast.py
@@ -69,10 +71,10 @@ extremophile-gene-analysis/
 │   ├── compute_network_metrics.py
 │   └── summarize_gene_functions.py
 │
-├── outputs/
+├── outputs/                     
 │   ├── extremophile_resistance_heatmap.png
 │   ├── extremophile_clusters_heatmap.png
-│   ├── *_radar_plot.png
+│   ├── *_radar_plot.png         
 │   ├── resistance_score_barplot.png
 │   ├── enhanced_gene_function_network_spread2.png
 │   ├── top_gene_products_by_stress_type.png
@@ -80,6 +82,7 @@ extremophile-gene-analysis/
 │   └── network_metrics.csv
 │
 └── README.md
+```
 
 ---
 
