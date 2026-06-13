@@ -27,6 +27,7 @@ While the Mars survival prediction model remains a work in progress due to chall
 ---
 
 ## Pipeline Overview
+
 Genome sequences (NCBI)
 ↓
 Genome annotation — PROKKA + RAST
