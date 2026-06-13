@@ -27,7 +27,7 @@ While the Mars survival prediction model remains a work in progress due to chall
 ---
 
 ## Pipeline Overview
-'''
+```
 Genome sequences (NCBI)
 ↓
 Genome annotation — PROKKA + RAST
@@ -41,7 +41,7 @@ Gene feature encoding and survival scoring
 Visualization — heatmaps, radar plots, clustering, rankings
 ↓
 Network analysis — gene to resistance category connections
-'''
+```
 
 ---
 
